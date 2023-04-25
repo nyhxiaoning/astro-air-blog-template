@@ -1,6 +1,7 @@
 ---
 import { formatDateV2 } from "../utils";
-const { posts } = Astro.props;
+let { posts } = Astro.props;
+posts = posts?.length?posts:[]
 posts.sort((a, b) => Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate));
 ---
 
