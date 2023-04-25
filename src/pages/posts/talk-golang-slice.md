@@ -10,7 +10,7 @@ cover:
     alt: 'cover'
 tags: ["源码研究", "标准库", "golang", "slice"]
 theme: 'dark'
-featured: false
+featured: true
 ---
 
 ![golang 吉祥物](https://pic.lookcos.cn/i/usr/uploads/2023/02/1277661091.png)
