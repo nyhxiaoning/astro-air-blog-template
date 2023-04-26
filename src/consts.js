@@ -4,7 +4,7 @@ export const SITE_TITLE = `Henry Leetcode Blog`;
 export const SITE_DESCRIPTION = 'Site Description';
 export const SITE_EMAIL = 'xxx'
 export const SITE_NAME = 'henry';
-export const SITE_URL = "https://xxx.com";//必须是一个域名
+export const SITE_URL = "https://baidu.com";//必须是一个域名
 export const SITE_LANG = "zh-CN";
 
 // Author, used only when author is not specified on the page,
