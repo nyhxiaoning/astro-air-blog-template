@@ -1994,7 +1994,7 @@ micromark-util-decode-string@^1.0.0:
 
 micromark-util-encode@^1.0.0:
   version "1.0.1"
-  resolved "https://registry.npmmirror.com/micromark-util-encode/-/micromark-util-encode-1.0.1.tgz#2c1c22d3800870ad770ece5686ebca5920353383"
+  resolved "https://registry.npmmirror.com/micromark-util-encode/-/micromark-util-encode-1.0.1.tgz#2c1c22d3800870ad770ece5686ebca5920223383"
   integrity sha512-U2s5YdnAYexjKDel31SVMPbfi+eF8y1U4pfiRW/Y8EFVCy/vgxk/2wWTxzcqE71LHtCuCzlBDRU2a5CQ5j+mQA==
 
 micromark-util-html-tag-name@^1.0.0:
